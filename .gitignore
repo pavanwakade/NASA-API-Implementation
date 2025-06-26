@@ -27,3 +27,6 @@ application.properties
 application.yml
 application-*.properties
 application-*.yml
+
+# Sensitive key files
+key.txt
